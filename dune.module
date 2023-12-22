@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: dune-maxent
+Version: 0.1
+Maintainer: mitruka@ibb.uni-stuttgart.de
+# Required build dependencies
+Depends: dune-common
+# Optional build dependencies
+#Suggests:
