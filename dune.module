@@ -7,6 +7,7 @@ Module: dune-maxent
 Version: 0.1
 Maintainer: mitruka@ibb.uni-stuttgart.de
 # Required build dependencies
-Depends: dune-common
+Depends: dune-common dune-functions dune-grid
+Suggests: dune-vtk dune-fufem
 # Optional build dependencies
 #Suggests:
